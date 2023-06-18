@@ -1,1 +1,1 @@
-![TanoMC-Header](https://dl.tryhub.de/assets/banner.png)
+![Header](https://dl.tryhub.de/assets/banner.png)
